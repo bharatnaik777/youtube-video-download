@@ -1,9 +1,3 @@
-# YouTube video download using python 
-
-Here you can learn how to download YouTube videos by using  python
-You can download the python script by using following link:
-
-[Download Script](https://drive.google.com/file/d/10YYVi5lQu2TocKNAHIzHOPCgZ8DN2qzX/view?usp=drivesdk)
 
 Main features of this Script are:
 * It is easy to use
